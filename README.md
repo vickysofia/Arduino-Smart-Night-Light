@@ -1,8 +1,6 @@
-# Arduino-Smart-Night-Light
-An interactive Arduino Uno R4 Wifi (or minima) night-light with automatic dimming, LCD brightness display, and random button color customization
 # Arduino Smart Night-Light
 
-An interactive, ambient-aware night-light built on the Arduino Uno R4 WiFi. The system automatically adjusts LED brightness based on room light levels, displays real-time brightness percentages on an I2C LCD, and allows user color customization via a physical button.
+An interactive night-light built on the Arduino Uno R4 WiFi. The system automatically adjusts LED brightness based on room light levels, displays real-time brightness percentages on an I2C LCD, and allows user color customization via the click of a physical button.
 
 ## Features
 - **Automatic Dimming:** Increases LED brightness as room light drops below 50%.
